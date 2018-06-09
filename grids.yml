@@ -1,6 +1,6 @@
 provider:
   name: faas
-  gateway: http://127.0.0.1:8080
+  gateway: http://kunbi01-i10513:8080
 
 functions:
   grids:
